@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          When we declare a variable,the variable allocate a memory address.
+
+          Pointers are variables that store address of another variable.
+
+              int a;
+              int *p;    /// pointer variable.
+              p = &a;     /// p contains address of a.
+              a = 5;
+              print p    /// address of a.
+              print &a   /// address of a.
+              print &p   /// address of the pointer variable.
+              print *p   /// the value(a=5) its points (It's called dereferenceing)
+    
+              p = address.
+              *p = value at address.
+    
+    
