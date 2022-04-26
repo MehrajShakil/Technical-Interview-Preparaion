@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-
+/// LinkedList node.
 struct Node {
     int data = 0;
     Node* next = nullptr;
