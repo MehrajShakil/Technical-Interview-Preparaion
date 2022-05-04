@@ -49,8 +49,8 @@ int main() {
      */
 
      Node* root = NULL;
-     root = insertNode(root,12);
      root = insertNode(root,11);
+     root = insertNode(root,12);
      root = insertNode(root,9);
      root = insertNode(root,10);
      root = insertNode(root,8);
